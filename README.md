@@ -1,8 +1,10 @@
 Hi 👋 My name is Catalin Costache
 =================================
 
+<!--
 Learning Web Development
 ------------------------
+-->
 
 I am a truck driver seeking to switch to a career in tech as a junior developer.
 
