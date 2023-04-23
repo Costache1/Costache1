@@ -1,4 +1,4 @@
-Hi 👋 My name is Catalin Costache
+Hi, My name is Catalin Costache 👋
 =================================
 
 <!--
