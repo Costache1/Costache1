@@ -6,7 +6,7 @@ Learning Web Development
 ------------------------
 -->
 
-I am a truck driver seeking to switch to a career in tech as a junior developer.
+I am a truck driver seeking a career in tech as a junior developer.
 
 * 🌍  I'm based in Aglasterhausen, Germany
 * 🧠  I'm learning ReactJS
