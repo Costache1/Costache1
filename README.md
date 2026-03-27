@@ -2,7 +2,7 @@ Hi, My name is Catalin Costache 👋
 =================================
 
 
-Learning
+Learning in progress...
 ------------------------
 
 
