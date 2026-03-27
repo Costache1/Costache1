@@ -1,15 +1,14 @@
 Hi, My name is Catalin Costache 👋
 =================================
 
-<!--
-Learning Web Development
-------------------------
--->
 
-I am a truck driver seeking a career in tech as a junior web developer.
+Learning
+------------------------
+
+
 
 * 🌍  I'm based in Aglasterhausen, Germany
-* 🧠  I'm learning Javascript and ReactJS currently
+* 🧠  I'm learning CCNA currently
 
 ### Skills
 
